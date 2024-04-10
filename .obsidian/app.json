@@ -1,0 +1,8 @@
+{
+  "showInlineTitle": false,
+  "attachmentFolderPath": "./attachments",
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true,
+  "spellcheck": false,
+  "vimMode": true
+}
