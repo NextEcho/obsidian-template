@@ -3,5 +3,6 @@
   "theme": "obsidian",
   "interfaceFontFamily": "0xProto Nerd Font",
   "textFontFamily": "0xProto Nerd Font",
-  "monospaceFontFamily": "0xProto Nerd Font"
+  "monospaceFontFamily": "0xProto Nerd Font",
+  "cssTheme": "AnuPpuccin"
 }

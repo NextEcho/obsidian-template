@@ -6,27 +6,27 @@
 
 # 字体使用列表
 
--   [ ] Maple Mono
--   [ ] 0xProto Nerd Font
--   [ ] LXGW WenKai
--   [ ] JetBrainsMono Nerd Font
--   [ ] CommitMono Nerd Font
+- [ ] Maple Mono
+- [ ] 0xProto Nerd Font
+- [ ] LXGW WenKai
+- [ ] JetBrainsMono Nerd Font
+- [ ] CommitMono Nerd Font
 
 # 插件列表
 
--   [ ] obsidian-kanban
--   [ ] obsidian-vimrc-support
--   [ ] remember-cursor-position
--   [ ] obsidian-excalidraw
--   [ ] obsidian-open-in-new-tab
--   [ ] obsidian-dataview
--   [ ] obsidian-callout-manager
--   [ ] obsidian-banners
--   [ ] obsidian-style-setting
--   [ ] obsidian-omnisearch
--   [ ] obsidian-home-page
--   [ ] obsidian-clear-unused-image
--   [ ] hotkey-helper
+- [x] obsidian-kanban
+- [x] obsidian-vimrc-support
+- [x] remember-cursor-position
+- [x] obsidian-excalidraw
+- [ ] obsidian-open-in-new-tab
+- [ ] obsidian-dataview
+- [x] obsidian-callout-manager
+- [x] obsidian-banners
+- [x] obsidian-style-setting
+- [x] obsidian-omnisearch
+- [ ] obsidian-home-page
+- [ ] obsidian-clear-unused-image
+- [ ] hotkey-helper
 
 # 主题列表
 
