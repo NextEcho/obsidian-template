@@ -1,0 +1,85 @@
+/* --- Kanban With Background Color Based On Tag --- */
+/* use this to style the card background and text */
+
+/* 
+    自定义 Kanban 的 tag 分为三种:
+    分别是 todo(待开始) progress(进行中) done(已完成)
+*/
+
+/* 
+  ======= todo tag =======
+*/
+.kanban-plugin__item.has-tag-todo,
+.has-tag-todo
+  :is(
+    .kanban-plugin__item-content-wrapper,
+    .kanban-plugin__item-title-wrapper
+  ) {
+  background-color: #ffbcb7 !important;
+}
+
+a[href="#todo"].tag {
+  display: none;
+}
+
+/* use this to style the tag bubble at the bottom of the card */
+a[href="#todo"].kanban-plugin__item-tag {
+  display: inline-block;
+  background-color: #ffbcb7;
+  color: #000000 !important;
+  font-weight: bold;
+  border: #77504c 2px solid;
+  margin-bottom: 4px !important;
+}
+
+/* 
+  ======= progress tag =======
+*/
+.kanban-plugin__item.has-tag-progress,
+.has-tag-progress
+  :is(
+    .kanban-plugin__item-content-wrapper,
+    .kanban-plugin__item-title-wrapper
+  ) {
+  background-color: #a442ff !important;
+}
+
+a[href="#progress"].tag {
+  display: none;
+}
+
+/* use this to style the tag bubble at the bottom of the card */
+a[href="#progress"].kanban-plugin__item-tag {
+  display: inline-block;
+  background-color: #a442ff;
+  color: #000000 !important;
+  font-weight: bold;
+  border: #313e63 2px solid;
+  margin-bottom: 4px !important;
+}
+
+/* 
+  ======= done tag =======
+*/
+.kanban-plugin__item.has-tag-done,
+.has-tag-done
+  :is(
+    .kanban-plugin__item-content-wrapper,
+    .kanban-plugin__item-title-wrapper
+  ) {
+  background-color: #2ff48b !important;
+}
+
+a[href="#done"].tag {
+  display: none;
+}
+
+/* use this to style the tag bubble at the bottom of the card */
+a[href="#done"].kanban-plugin__item-tag {
+  display: inline-block;
+  background-color: #2ff48b;
+  color: #000000 !important;
+  font-weight: bold;
+  border: #24672a 2px solid;
+  margin-bottom: 4px !important;
+}

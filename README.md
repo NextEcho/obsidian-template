@@ -18,21 +18,21 @@
 - [x] obsidian-vimrc-support
 - [x] remember-cursor-position
 - [x] obsidian-excalidraw
-- [ ] obsidian-open-in-new-tab
-- [ ] obsidian-dataview
+- [x] obsidian-open-in-new-tab
 - [x] obsidian-callout-manager
 - [x] obsidian-banners
 - [x] obsidian-style-setting
 - [x] obsidian-omnisearch
 - [ ] obsidian-home-page
-- [ ] obsidian-clear-unused-image
+- [x] obsidian-clear-unused-image
 - [ ] hotkey-helper
+- [ ] obsidian-dataview
 
 # 主题列表
 
--   [ ] Mapler Theme
--   [ ] Minimal Theme
--   [ ] AnuPpuccin Theme
+- [ ] Mapler Theme
+- [ ] Minimal Theme
+- [ ] AnuPpuccin Theme
 
 # 仓库 CSS 样式列表
 
